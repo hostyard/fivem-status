@@ -1,0 +1,11 @@
+name: "Roleplay"
+lang: "pl"
+token: "" # Discord bot token
+interval: 10000 # ms
+server: ""
+
+message:
+  enabled: true
+  channel: "" # Channel id
+status:
+  enabled: true
