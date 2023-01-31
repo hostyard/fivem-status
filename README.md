@@ -4,8 +4,8 @@ Simple discord bot created to display fivem server status
 
 ## Screenshots
 
-![App Screenshot](https://storage.oreq.xyz/vzyhDlv5K)
-![App Screenshot](https://storage.oreq.xyz/gTkc1GbxY)
+![App Screenshot](https://storage.oreq.xyz/Discord_fCv24dWhbm.png)
+![App Screenshot](https://storage.oreq.xyz/Discord_ACWB9B4Q3n.png)
 
 ## License
 
